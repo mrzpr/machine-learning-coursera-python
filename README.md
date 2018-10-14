@@ -1,2 +1,2 @@
 # machine-learning-coursera-python
-Coursera Machine Learning Practice Implemented in Python
+Coursera Machine Learning Practice with Python Implementation
